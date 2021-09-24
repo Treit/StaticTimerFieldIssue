@@ -1,4 +1,4 @@
-# StaticTimerFieldIssue
+# Static Timer Field Issue - IDE0052 making a bad suggestion.
 This repo illustrates a problem with a code suggestion in Visual Studio that can change the program behavior in an undesired way.
 
 The code in question results in the following suggestion:
